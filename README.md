@@ -4,8 +4,5 @@ Anlog is the world's most beautiful programming language written and designed by
 
 ## Dependencies:
 - SBT (scala build tool)
-- Scalogno       --         https://github.com/namin/scalogno
-- Kind Projector --         https://github.com/typelevel/kind-projector
-- Parboiled2     --         https://github.com/sirthias/parboiled2
-- Arrows         --         https://github.com/traneio/arrows
-- SynapseGrid    --         https://github.com/Primetalk/SynapseGrid
+
+Anlog is going under major changes. The syntax has become extremely implicit and more concise and there have been major changes to the underlying logic as well. Currently I am building a parsing libary as all the existing libraries have poor design principles.
